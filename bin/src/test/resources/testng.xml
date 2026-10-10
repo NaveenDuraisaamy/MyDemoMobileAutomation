@@ -1,0 +1,1 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"><suite name="Mobile Suite"><test name="Android UI Tests"><classes><class name="com.velocitor.mobile.tests.MobileTests"/></classes></test></suite>
